@@ -1,0 +1,15 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "Projeto usando npm",
+  "main": "index.html",
+  "scripts": {
+  },
+  "keywords": [
+    "Eu",
+    "no",
+    "mundo"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}
